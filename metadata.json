@@ -1,0 +1,5 @@
+{
+  "name": "Memberikan kata2 pada gambar dan video",
+  "description": "An application that uses AI to analyze a visual medium (photo/video) and generate short, powerful, and emotionally relevant motivational quotes based on the visual's content and mood.",
+  "requestFramePermissions": []
+}
